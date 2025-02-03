@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/public/static/css/main.475fc28c.css",
-    "main.js": "/public/static/js/main.7dd09762.js",
-    "static/media/Detective.png": "/public/static/media/Detective.baf316cbc6f2faed09cc.png",
-    "static/media/linkedin.jpeg": "/public/static/media/linkedin.cb573ca32e1fcb26dac1.jpeg",
-    "static/media/login.png": "/public/static/media/login.cbde65cc8ee642bd6298.png",
-    "static/media/slick.svg": "/public/static/media/slick.2630a3e3eab21c607e21.svg",
-    "static/media/slick.eot": "/public/static/media/slick.a4e97f5a2a64f0ab1323.eot",
-    "static/media/slick.ttf": "/public/static/media/slick.c94f7671dcc99dce43e2.ttf",
-    "static/media/slick.woff": "/public/static/media/slick.295183786cd8a1389865.woff",
-    "index.html": "/public/index.html",
-    "main.475fc28c.css.map": "/public/static/css/main.475fc28c.css.map",
-    "main.7dd09762.js.map": "/public/static/js/main.7dd09762.js.map"
+    "main.css": "/portfolio/static/css/main.dbdb6087.css",
+    "main.js": "/portfolio/static/js/main.1afa6ddf.js",
+    "static/media/Detective.png": "/portfolio/static/media/Detective.baf316cbc6f2faed09cc.png",
+    "static/media/linkedin.jpeg": "/portfolio/static/media/linkedin.cb573ca32e1fcb26dac1.jpeg",
+    "static/media/login.png": "/portfolio/static/media/login.cbde65cc8ee642bd6298.png",
+    "static/media/slick.svg": "/portfolio/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/portfolio/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/portfolio/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/portfolio/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/portfolio/index.html",
+    "main.dbdb6087.css.map": "/portfolio/static/css/main.dbdb6087.css.map",
+    "main.1afa6ddf.js.map": "/portfolio/static/js/main.1afa6ddf.js.map"
   },
   "entrypoints": [
-    "static/css/main.475fc28c.css",
-    "static/js/main.7dd09762.js"
+    "static/css/main.dbdb6087.css",
+    "static/js/main.1afa6ddf.js"
   ]
 }
