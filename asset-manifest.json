@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.24b1e17d.css",
-    "main.js": "/portfolio/static/js/main.429f4216.js",
+    "main.js": "/portfolio/static/js/main.fec3e359.js",
     "static/media/Detective.png": "/portfolio/static/media/Detective.baf316cbc6f2faed09cc.png",
     "static/media/linkedin.jpeg": "/portfolio/static/media/linkedin.cb573ca32e1fcb26dac1.jpeg",
     "static/media/login.png": "/portfolio/static/media/login.cbde65cc8ee642bd6298.png",
-    "static/media/Saloni_Priyani_Resume.pdf": "/portfolio/static/media/Saloni_Priyani_Resume.8094b34e0b5502080149.pdf",
+    "static/media/Saloni_Priyani_Resume.pdf": "/portfolio/static/media/Saloni_Priyani_Resume.2020c65736d44d4a7ac2.pdf",
     "static/media/slick.svg": "/portfolio/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/portfolio/static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "static/media/slick.ttf": "/portfolio/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/portfolio/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/portfolio/index.html",
     "main.24b1e17d.css.map": "/portfolio/static/css/main.24b1e17d.css.map",
-    "main.429f4216.js.map": "/portfolio/static/js/main.429f4216.js.map"
+    "main.fec3e359.js.map": "/portfolio/static/js/main.fec3e359.js.map"
   },
   "entrypoints": [
     "static/css/main.24b1e17d.css",
-    "static/js/main.429f4216.js"
+    "static/js/main.fec3e359.js"
   ]
 }
