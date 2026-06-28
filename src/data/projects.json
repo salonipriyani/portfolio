@@ -1,27 +1,27 @@
 [
     {
-        "name" : "Project 1",
-        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, \nsed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, \nsed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-        "link" : "https://github.com/"
+        "name" : "Atelier — Sketch to Sewing Pattern",
+        "description" : "A multi-agent AI system that converts fashion sketches or garment photos into complete, printable sewing patterns with step-by-step instructions. Built with a LangGraph pipeline coordinating four specialized Claude agents (vision, measurement, pattern, instructions), containerized with Docker and served via FastAPI.",
+        "link" : "https://github.com/salonipriyani/image-to-sewing-pattern-converter"
     },
     {
-        "name" : "Project 2",
-        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, \nsed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, \nsed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-        "link" : "https://github.com/"
+        "name" : "Real Time Movie Recommendation System",
+        "description" : "The project simulates an early-stage streaming service that serves personalized movie recommendations to users. The system is designed to handle a dataset of approximately 1 million users and 27,000 movies, considering real-world challenges like scalability, reliability, and model drift.",
+        "link" : "https://github.com/salonipriyani/real-time-movie-recommender"
     },
     {
-        "name" : "Project 3",
-        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, \nsed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, \nsed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-        "link" : "https://github.com/"
+        "name" : "Restaurant Finder RAG Chatbot",
+        "description" : "A RAG chatbot providing precise restaurant recommendations based on user location and dietary preferences. Utilizes FAISS for efficient data retrieval and OpenAI’s GPT-3.5 Turbo for enhanced conversational abilities.",
+        "link" : "https://github.com/salonipriyani/zerotooneai-capstone"
     },
     {
-        "name" : "Project 4",
-        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, \nsed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, \nsed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-        "link" : "https://github.com/"
+        "name" : "Language Detector/Translator App",
+        "description" : "Developed an Android app for language detection and translation. Deployed a RESTful web service on GitHub Codespaces using Docker and integrated MongoDB for operational analytics.",
+        "link" : "https://github.com/salonipriyani/translation-server"
     },
     {
-        "name" : "Project 5",
-        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, \nsed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, \nsed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-        "link" : "https://github.com/"
+        "name" : "Appointment Scheduling API",
+        "description" : "A Python Flask backend application for scheduling, managing, and tracking appointments. Supports multiple databases, and handles time zones for users from different cities.",
+        "link" : "https://github.com/salonipriyani/appointment-scheduling-api"
     }
 ]
