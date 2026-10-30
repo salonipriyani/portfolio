@@ -16,6 +16,11 @@ const certifications = [
 
 const patents = [
     {
+      name: 'User authentication during an electronic signature workflow',
+      id: 'US12700001B2',
+      link: 'https://patents.google.com/patent/US12700001B2'
+    },
+    {
         name: 'Automated prediction of computing resource performance scaling using reinforcement learning',
         id: 'US11775352B1',
         link: 'https://patents.google.com/patent/US11775352B1'
